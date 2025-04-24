@@ -1,6 +1,5 @@
 "use client"
-
-import { useState } from "react"
+import { useState} from "react" 
 import { WeatherDisplay } from "@/components/weather-display"
 import { WeatherSearch } from "@/components/weather-search"
 import { getWeatherData } from "@/lib/weather"
